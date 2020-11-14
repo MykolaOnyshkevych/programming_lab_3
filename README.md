@@ -1,4 +1,4 @@
-# programming_part_3_lab_3
+# Laboratory work 3: wedding
 
 #Instalation:
 Copy repository with command:
